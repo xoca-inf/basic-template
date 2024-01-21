@@ -1,0 +1,23 @@
+{
+		"int": {
+
+		},
+		"float": {
+
+		},
+	"string" : 
+	{
+
+	},
+    "vector2" : 
+	{
+		
+	},
+		"vector3": {
+
+		},
+	"vector4" :	
+	{
+        "CameraClearColor" : {"x": 0.9, "y": 0.8, "z": 0.7, "w": 1}
+	}
+}

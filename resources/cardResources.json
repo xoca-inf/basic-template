@@ -1,0 +1,44 @@
+{
+  "Ace_Of_Diamonds": {
+    "path": "Textures/cards_1/Ace_Of_Diamonds@1x.png"
+  },
+  "Ace_Of_Hearts": {
+    "path": "Textures/cards_1/Ace_Of_Hearts@1x.png"
+  },
+  "Four_Of_Hearts": {
+    "path": "Textures/cards_1/Four_Of_Hearts.png"
+  },
+  "Jack_Of_Hearts": {
+    "path": "Textures/cards_1/Jack_Of_Hearts.png"
+  },
+  "King_Of_Diamonds": {
+    "path": "Textures/cards_1/King_Of_Diamonds@1x.png"
+  },
+  "King_Of_Hearts": {
+    "path": "Textures/cards_2_big/King_Of_Hearts@2x.png"
+  },
+  "Nine_Of_Clubs": {
+    "path": "Textures/cards_1/Nine_Of_Clubs.png"
+  },
+  "Nine_Of_Hearts": {
+    "path": "Textures/cards_1/Nine_Of_Hearts@1x.png"
+  },
+  "Queen_Of_Clubs": {
+    "path": "Textures/cards_1/Queen_Of_Clubs@1x.png"
+  },
+  "Queen_Of_Hearts": {
+    "path": "Textures/cards_1/Queen_Of_Hearts@1x.png"
+  },
+  "Seven_Of_Hearts": {
+    "path": "Textures/cards_1/Seven_Of_Hearts@1x.png"
+  },
+  "Six_Of_Clubs": {
+    "path": "Textures/cards_1/Six_Of_Clubs@1x.png"
+  },
+  "Three_Of_Clubs": {
+    "path": "Textures/cards_1/Three_Of_Clubs@1x.png"
+  },
+  "Two_Of_Hearts": {
+    "path": "Textures/cards_1/Two_Of_Hearts@1x.png"
+  }
+}

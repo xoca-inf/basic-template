@@ -1,0 +1,36 @@
+{
+    "models": {
+
+    },
+    "materials": {
+        "Sprite": "Materials/sprite.mat",
+        "Default": "Materials/default.mat",
+        "Animated": "Materials/animated.mat"
+    },
+    "textures": {
+        "awatar1" : "Textures/awatar_01.png",
+        "awatar2" : "Textures/awatar_03.png",
+        "awatar3" : "Textures/awatar_02.png",
+        "awatar4" : "Textures/awatar_04.png",
+        "Ace_Of_Diamonds": "Textures/cards_1/Ace_Of_Diamonds@1x.png",
+        "King_Of_Diamonds": "Textures/cards_1/King_Of_Diamonds@1x.png",
+        "King_Of_Hearts" : "Textures/cards_2_big/King_Of_Hearts@2x.png",
+        "Ten_Of_Clubs" : "Textures/cards_2_big/Ten_Of_Clubs@2x.png",
+        "Seven_Of_Spades" : "Textures/cards_2_big/Seven_Of_Spades@2x.png",
+        "Five_Of_Hearts" : "Textures/cards_2_big/Five_Of_Hearts@2x.png",
+        "Jack_Of_Clubs" : "Textures/cards_2_big/jack_of_clubs.png",
+        "Ace_Of_Hearts" : "Textures/cards_1/Ace_Of_Hearts@1x.png",
+        "Four_Of_Hearts" : "Textures/cards_1/Four_Of_Hearts.png",
+        "Jack_Of_Hearts" : "Textures/cards_1/Jack_Of_Hearts@1x.png",
+        "Nine_Of_Hearts" : "Textures/cards_1/Nine_Of_Hearts@1x.png",
+        "Queen_Of_Hearts" : "Textures/cards_1/Queen_Of_Hearts@1x.png",
+        "Seven_Of_Hearts" : "Textures/cards_1/Seven_Of_Hearts@1x.png",
+        "Two_Of_Hearts" : "Textures/cards_1/Two_Of_Hearts@1x.png",
+        "Queen_Of_Clubs":  "Textures/cards_1/Queen_Of_Clubs@1x.png",
+        "Six_Of_Clubs" : "Textures/cards_1/Six_Of_Clubs@1x.png",
+        "Three_Of_Clubs" : "Textures/cards_1/Three_Of_Clubs@1x.png",
+        "Nine_Of_Clubs": "Textures/cards_1/Nine_Of_Clubs.png",
+        "DownloadButton" : "Textures/download_btn.png",
+        "BackgroundImageGame" : "Textures/bg_game.png"
+    }
+}
